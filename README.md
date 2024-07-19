@@ -21,7 +21,7 @@ For uploading and storing images shared in chats
   <img width="140" alt="chat_homePage" src="https://github.com/user-attachments/assets/44d2a94a-aae2-42bf-83f5-6c04ea0c4fa2">
   <img width="140" alt="chat_homepage2" src="https://github.com/user-attachments/assets/ce96cb78-4bbe-4612-9e30-248a372b64c4">
   <img width="140" alt="chat_cama" src="https://github.com/user-attachments/assets/aba4798f-203b-45e4-b81b-ea3220ce128a">
-  <img width="140" alt="chat_f1" src="https://github.com/user-attachments/assets/d6825697-ed51-4c3a-b1e6-1d13f4af9776">
-  <img width="140" alt="chat_f2" src="https://github.com/user-attachments/assets/215fed90-fd3d-453d-afc0-5526f6a9368d">
-  <img width="140" alt="chat_f3" src="https://github.com/user-attachments/assets/70e8f303-5587-42d5-a415-0d8ddfa6bd66">
+  <img height="140" alt="chat_f1" src="https://github.com/user-attachments/assets/d6825697-ed51-4c3a-b1e6-1d13f4af9776">
+  <img height="140" alt="chat_f2" src="https://github.com/user-attachments/assets/215fed90-fd3d-453d-afc0-5526f6a9368d">
+  <img height="140" alt="chat_f3" src="https://github.com/user-attachments/assets/70e8f303-5587-42d5-a415-0d8ddfa6bd66">
 </div>
